@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Windows 95";
-    src: url("Windows Regular.ttf");
+    src: url("Windows Regular.ttf"), format("tff");
     font-weight: normal;
     font-style: normal;
 }
